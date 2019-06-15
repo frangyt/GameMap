@@ -16,7 +16,10 @@ Categorias serão pré-definidas, número previsto de 6 categorias.
   -> É multiplayer?
   
 Telas:
-  -> Tela Inicial (Cadastrar jogo ou pesquisar jogo)
+  -> Tela Inicial (Cadastrar (Jogo, Plataforma, Empresa ou Gênero) ou pesquisar jogo)
   -> Tela de Cadastro de Jogos
+  -> Tela de Cadastro de Empresa
+  -> Tela de Cadastro de Plataforma
+  -> Tela de Cadastro de Gênero
   -> Tela de Pesquisa (apenas pesquisar por nome do jogo)
   -> Tela de Resultado (com opção de cadastrar novo jogo, opção de "refresh", opção de pesquisar novamente por jogo novo)
