@@ -1,0 +1,6 @@
+C:\Users\udesc\AndroidStudioProjects\GameMap\API\GameMap\Core\bin\Debug\netcoreapp2.1\Core.deps.json
+C:\Users\udesc\AndroidStudioProjects\GameMap\API\GameMap\Core\bin\Debug\netcoreapp2.1\Core.dll
+C:\Users\udesc\AndroidStudioProjects\GameMap\API\GameMap\Core\obj\Debug\netcoreapp2.1\Core.csprojAssemblyReference.cache
+C:\Users\udesc\AndroidStudioProjects\GameMap\API\GameMap\Core\obj\Debug\netcoreapp2.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\udesc\AndroidStudioProjects\GameMap\API\GameMap\Core\obj\Debug\netcoreapp2.1\Core.AssemblyInfoInputs.cache
+C:\Users\udesc\AndroidStudioProjects\GameMap\API\GameMap\Core\obj\Debug\netcoreapp2.1\Core.AssemblyInfo.cs
